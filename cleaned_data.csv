@@ -1,0 +1,644 @@
+country,year,month,health_insurance_category,revenue_(£000),customer_volume
+India,2022,1,Basic Health Insurance,4639,5944
+India,2022,1,Comprehensive Health Insurance,10376,15788
+India,2022,1,Critical Illness Insurance,20631,28605
+India,2022,1,Dental Insurance,5860,29162
+India,2022,1,Vision Insurance,5249,14860
+India,2022,1,Travel Health Insurance,10621,19318
+India,2022,2,Basic Health Insurance,1709,2229
+India,2022,2,Comprehensive Health Insurance,8911,13559
+India,2022,2,Critical Illness Insurance,13306,19503
+India,2022,2,Dental Insurance,4395,17646
+India,2022,2,Vision Insurance,11109,34735
+India,2022,2,Travel Health Insurance,10621,19503
+India,2022,3,Basic Health Insurance,244,185
+India,2022,3,Comprehensive Health Insurance,16236,27119
+India,2022,3,Critical Illness Insurance,7446,10773
+India,2022,3,Vision Insurance,12574,39564
+India,2022,3,Travel Health Insurance,3296,6315
+India,2022,4,Basic Health Insurance,4639,6129
+India,2022,4,Comprehensive Health Insurance,23561,37150
+India,2022,4,Critical Illness Insurance,14771,20432
+India,2022,4,Dental Insurance,2930,12445
+India,2022,4,Vision Insurance,11109,31763
+India,2022,4,Travel Health Insurance,7691,13188
+India,2022,5,Basic Health Insurance,3174,3715
+India,2022,5,Comprehensive Health Insurance,20631,32692
+India,2022,5,Critical Illness Insurance,11841,17460
+India,2022,5,Dental Insurance,2930,13559
+India,2022,5,Vision Insurance,12574,39564
+India,2022,5,Travel Health Insurance,3296,5572
+India,2022,6,Basic Health Insurance,1220,1486
+India,2022,6,Comprehensive Health Insurance,25026,39379
+India,2022,6,Critical Illness Insurance,4516,6501
+India,2022,6,Dental Insurance,1465,6501
+India,2022,6,Vision Insurance,16969,49223
+India,2022,6,Travel Health Insurance,3296,6315
+India,2022,7,Basic Health Insurance,2685,3157
+India,2022,7,Comprehensive Health Ins$$$$$$$,27956,43279
+India,2022,7,Critical Illness Insurance,5981,8730
+India,2022,7,Dental Insurance,5860,28791
+India,2022,7,Vision Insurance,21364,71699
+India,2022,7,Travel Health Insurance,4028,6872
+India,2022,8,Basic Health Insurance,8545,10402
+India,2022,8,Comprehensive Health Insurance,26491,40493
+India,2022,8,Critical Illness Insurance,5981,8544
+India,2022,8,Dental Insurance,1465,5944
+India,2022,8,Vision Insurance,28689,82287
+India,2022,8,Travel Health Insurance,366,557
+India,2022,9,Basic Health Insurance,15870,20804
+India,2022,9,Comprehensive Health Insurance,25026,37521
+India,2022,9,Critical Illness Insurance,1343,1857
+India,2022,9,Dental Insurance,2930,11330
+India,2022,9,Vision Insurance,25759,90088
+India,2022,9,Travel Health Insurance,4028,7244
+India,2022,10,Basic Health Insurance,15870,19132
+India,2022,10,Comprehensive Health Insurance,29421,46623
+India,2022,10,Critical Illness Insurance,5981,8730
+India,2022,10,Dental Insurance,4395,16531
+India,2022,10,Vision Insurance,22829,77643
+India,2022,10,Travel Health Insurance,6958,13188
+India,2022,11,Basic Health Insurance,11475,15231
+India,2022,11,Comprehensive Health Insurance,22096,33992
+India,2022,11,Critical Illness Insurance,1586,2043
+India,2022,11,Dental Insurance,11720,47923
+India,2022,11,Vision Insurance,21364,68913
+India,2022,11,Travel Health Insurance,4028,7058
+India,2022,12,Basic Health Insurance,5615,6872
+India,2022,12,Comprehensive Health Insurance,23561,39564
+India,2022,12,Critical Illness Insurance,7446,10216
+India,2022,12,Dental Insurance,19045,69842
+India,2022,12,Vision Insurance,24294,81730
+India,2022,12,Travel Health Insurance,9888,17274
+India,2023,1,Basic Health Insurance,244,185
+India,2023,1,Comprehensive Health Insurance,17701,27305
+India,2023,1,Critical Illness Insurance,8911,12445
+India,2023,1,Dental Insurance,13185,51452
+India,2023,1,Vision Insurance,24294,68356
+India,2023,1,Travel Health Insurance,12818,22104
+India,2023,2,Basic Health Insurance,4639,5572
+India,2023,2,Comprehensive Health Insurance,14771,23590
+India,2023,2,Critical Illness Insurance,11841,16903
+India,2023,2,Dental Insurance,11720,49966
+India,2023,2,Vision Insurance,28689,86002
+India,2023,2,Travel Health Insurance,6958,12445
+India,2023,3,Basic Health Insurance,9034,11516
+India,2023,3,Comprehensive Health Insurance,8911,13745
+India,2023,3,Critical Illness Insurance,5981,7987
+India,2023,3,Dental Insurance,11720,51824
+India,2023,3,Vision Insurance,30154,109035
+India,2023,3,Travel Health Insurance,1098,1857
+India,2023,4,Basic Health Insurance,4639,5758
+India,2023,4,Comprehensive Health Insurance,11841,18203
+India,2023,4,Critical Illness Insurance,13306,17832
+India,2023,4,Dental Insurance,14650,55353
+India,2023,4,Vision Insurance,36014,106249
+India,2023,4,Travel Health Insurance,6958,12073
+India,2023,5,Basic Health Insurance,1220,1486
+India,2023,5,Comprehensive Health Insurance,4516,6872
+India,2023,5,Critical Illness Insurance,14771,19689
+India,2023,5,Dental Insurance,8790,32506
+India,2023,5,Vision Insurance,41874,136340
+India,2023,5,Travel Health Insurance,6958,11702
+India,2023,6,Basic Health Insurance,2685,3343
+India,2023,6,Comprehensive Health Insurance,8911,14302
+India,2023,6,Critical Illness Insurance,17701,25819
+India,2023,6,Dental Insurance,7325,35849
+India,2023,6,Vision Insurance,43339,138012
+India,2023,6,Travel Health Insurance,5493,9287
+India,2023,7,Basic Health Insurance,4639,5944
+India,2023,7,Comprehensive Health Insurance,5981,9473
+India,2023,7,Critical Illness Insurance,25026,36221
+India,2023,7,Dental Insurance,2930,11145
+India,2023,7,Vision Insurance,49199,162531
+India,2023,7,Travel Health Insurance,8423,14302
+India,2023,8,Basic Health Insurance,4639,5758
+India,2023,8,Comprehensive Health Insurance,11841,19132
+India,2023,8,Critical Illness Insurance,27956,39564
+India,2023,8,Dental Insurance,5860,27862
+India,2023,8,Vision Insurance,41874,139869
+India,2023,8,Travel Health Insurance,2563,4643
+India,2023,9,Basic Health Insurance,1709,2229
+India,2023,9,Comprehensive Health Insurance,13306,20432
+India,2023,9,Critical Illness Insurance,27956,41422
+India,2023,9,Vision Insurance,36014,108292
+India,2023,9,Travel Health Insurance,366,557
+India,2023,10,Basic Health Insurance,1709,2043
+India,2023,10,Comprehensive Health Insurance,16236,26190
+India,2023,10,Critical Illness Insurance,29421,40493
+India,2023,10,Dental Insurance,2930,11145
+India,2023,10,Vision Insurance,28689,97518
+India,2023,10,Travel Health Insurance,4028,7615
+India,2023,11,Basic Health Insurance,244,185
+India,2023,11,Comprehensive Health Insurance,17701,28977
+India,2023,11,Critical Illness Insurance,26491,36407
+India,2023,11,Dental Insurance,2930,14117
+India,2023,11,Vision Insurance,30154,98633
+India,2023,11,Travel Health Insurance,1831,3529
+India,2023,12,Basic Health Insurance,7080,8916
+India,2023,12,Comprehensive Health Insurance,10376,16531
+India,2023,12,Critical Illness Insurance,33816,48852
+India,2023,12,Vision Insurance,28689,96590
+India,2023,12,Travel Health Insurance,1831,3157
+India,2024,1,Basic Health Insurance,244,185
+India,2024,1,Comprehensive Health Insurance,17701,29720
+India,2024,1,Critical Illness Insurance,27956,38264
+India,2024,1,Vision Insurance,31619,104948
+India,2024,1,Travel Health Insurance,1098,1857
+India,2024,2,Basic Health Insurance,1220,1486
+India,2024,2,Comprehensive Health Insurance,13306,20989
+India,2024,2,Critical Illness Insurance,29421,40307
+India,2024,2,Dental Insurance,8790,42165
+India,2024,2,Vision Insurance,40409,127796
+India,2024,2,Travel Health Insurance,366,557
+India,2024,3,Basic Health Insurance,4639,5572
+India,2024,3,Comprehensive Health Insurance,16236,26933
+India,2024,3,Critical Illness Insurance,35281,52010
+India,2024,3,Dental Insurance,11720,57396
+India,2024,3,Vision Insurance,40409,115908
+India,2024,3,Travel Health Insurance,5493,9844
+India,2024,4,Basic Health Insurance,3174,3900
+India,2024,4,Comprehensive Health Insurance,19166,29348
+India,2024,4,Critical Illness Insurance,35281,51824
+India,2024,4,Dental Insurance,19045,71513
+India,2024,4,Vision Insurance,43339,137826
+India,2024,4,Travel Health Insurance,1098,1857
+India,2024,5,Basic Health Insurance,4639,6129
+India,2024,5,Comprehensive Health Insurance,19166,29534
+India,2024,5,Critical Illness Insurance,36746,51081
+India,2024,5,Dental Insurance,19045,82658
+India,2024,5,Vision Insurance,49199,154915
+India,2024,5,Travel Health Insurance,7691,14674
+India,2024,6,Basic Health Insurance,976,1300
+India,2024,6,Comprehensive Health Insurance,12989,21732
+India,2024,6,Critical Illness Insurance,32913,46623
+India,2024,6,Dental Insurance,18752,70585
+India,2024,6,Vision Insurance,44047,147857
+India,2024,6,Travel Health Insurance,4981,9287
+India,2024,7,Basic Health Insurance,195,185
+India,2024,7,Comprehensive Health Insurance,18849,31763
+India,2024,7,Critical Illness Insurance,35257,51824
+India,2024,7,Dental Insurance,24612,124266
+India,2024,7,Vision Insurance,41703,125009
+India,2024,7,Travel Health Insurance,2930,371
+India,2024,8,Basic Health Insurance,3711,4829
+India,2024,8,Comprehensive Health Insurance,23537,36221
+India,2024,8,Critical Illness Insurance,32913,44765
+India,2024,8,Dental Insurance,26956,112007
+India,2024,8,Vision Insurance,40531,141727
+India,2024,8,Travel Health Insurance,3809,6872
+India,2024,9,Basic Health Insurance,9571,11702
+India,2024,9,Comprehensive Health Insurance,18849,31020
+India,2024,9,Critical Illness Insurance,36429,49409
+India,2024,9,Dental Insurance,31644,158444
+India,2024,9,Vision Insurance,38187,126124
+India,2024,9,Travel Health Insurance,3809,7244
+India,2024,10,Basic Health Insurance,8399,10587
+India,2024,10,Comprehensive Health Insurance,16505,27676
+India,2024,10,Critical Illness Insurance,37601,54796
+India,2024,10,Dental Insurance,33988,148785
+India,2024,10,Vision Insurance,42875,151014
+India,2024,10,Travel Health Insurance,8497,16346
+India,2024,11,Basic Health Insurance,11964,14302
+India,2024,11,Comprehensive Health Insurance,17701,28234
+India,2024,11,Critical Illness Insurance,42606,57211
+India,2024,11,Dental Insurance,36625,138941
+India,2024,11,Vision Insurance,52129,160116
+India,2024,11,Travel Health Insurance,19411,37150
+India,2024,12,Basic Health Insurance,6104,7615
+India,2024,12,Comprehensive Health Insurance,19166,30463
+India,2024,12,Critical Illness Insurance,41141,59997
+India,2024,12,Dental Insurance,36625,155844
+India,2024,12,Vision Insurance,56524,185378
+India,2024,12,Travel Health Insurance,26736,52010
+Mexico,2022,1,Basic Health Insurance,23073,28234
+Mexico,2022,1,Comprehensive Health Insurance,2319,3343
+Mexico,2022,1,Critical Illness Insurance,22829,31949
+Mexico,2022,1,Dental Insurance,7325,26562
+Mexico,2022,1,Vision Insurance,11475,33992
+Mexico,2022,1,Travel Health Insurance,17335,33620
+Mexico,2022,2,Basic Health Insurance,21608,26748
+Mexico,2022,2,Comprehensive Health Insurance,9644,14860
+Mexico,2022,2,Critical Illness Insurance,15504,21175
+Mexico,2022,2,Dental Insurance,7325,26562
+Mexico,2022,2,Vision Insurance,14405,43465
+Mexico,2022,2,Travel Health Insurance,17335,29905
+Mexico,2022,3,Basic Health Insurance,24538,31949
+Mexico,2022,3,Comprehensive Health Insurance,8179,12445
+Mexico,2022,3,Critical Illness Insurance,18434,24519
+Mexico,2022,3,Dental Insurance,5860,29348
+Mexico,2022,3,Vision Insurance,15870,45137
+Mexico,2022,3,Travel Health Insurance,18800,35664
+Mexico,2022,4,Basic Health Insurance,18678,23218
+Mexico,2022,4,Comprehensive Health Insurance,3784,6129
+Mexico,2022,4,Critical Illness Insurance,15504,20989
+Mexico,2022,4,Dental Insurance,13185,53496
+Mexico,2022,4,Vision Insurance,20265,59625
+Mexico,2022,4,Travel Health Insurance,26125,48852
+Mexico,2022,5,Basic Health Insurance,23073,30648
+Mexico,2022,5,Comprehensive Health Insurance,2075,3157
+Mexico,2022,5,Critical Illness Insurance,11109,15974
+Mexico,2022,5,Dental Insurance,17580,63712
+Mexico,2022,5,Vision Insurance,26125,93060
+Mexico,2022,5,Travel Health Insurance,20265,39379
+Mexico,2022,6,Basic Health Insurance,21608,26933
+Mexico,2022,6,Comprehensive Health Insurance,6470,9844
+Mexico,2022,6,Critical Illness Insurance,16969,22847
+Mexico,2022,6,Dental Insurance,21975,83401
+Mexico,2022,6,Vision Insurance,18800,54239
+Mexico,2022,6,Travel Health Insurance,14405,27119
+Mexico,2022,7,Basic Health Insurance,27468,36221
+Mexico,2022,7,Comprehensive Health Insurance,854,1300
+Mexico,2022,7,Critical Illness Insurance,24294,34549
+Mexico,2022,7,Dental Insurance,27835,127238
+Mexico,2022,7,Vision Insurance,11475,38450
+Mexico,2022,7,Travel Health Insurance,10010,17460
+Mexico,2022,8,Basic Health Insurance,28933,36221
+Mexico,2022,8,Comprehensive Health Insurance,2075,2972
+Mexico,2022,8,Critical Illness Insurance,21364,28419
+Mexico,2022,8,Dental Insurance,30765,136526
+Mexico,2022,8,Vision Insurance,10010,28605
+Mexico,2022,8,Travel Health Insurance,10010,18575
+Mexico,2022,9,Basic Health Insurance,27468,33806
+Mexico,2022,9,Comprehensive Health Insurance,5005,8358
+Mexico,2022,9,Critical Illness Insurance,18434,25076
+Mexico,2022,9,Dental Insurance,29300,135597
+Mexico,2022,9,Vision Insurance,17335,59254
+Mexico,2022,9,Travel Health Insurance,12940,22847
+Mexico,2022,10,Basic Health Insurance,33328,43837
+Mexico,2022,10,Comprehensive Health Insurance,10865,17460
+Mexico,2022,10,Critical Illness Insurance,14039,19318
+Mexico,2022,10,Dental Insurance,33695,124081
+Mexico,2022,10,Vision Insurance,12940,40679
+Mexico,2022,10,Travel Health Insurance,11475,19318
+Mexico,2022,11,Basic Health Insurance,29007,35106
+Mexico,2022,11,Comprehensive Health Insurance,9864,16160
+Mexico,2022,11,Critical Illness Insurance,11231,15045
+Mexico,2022,11,Dental Insurance,30472,144885
+Mexico,2022,11,Vision Insurance,16212,47366
+Mexico,2022,11,Travel Health Insurance,12696,22104
+Mexico,2022,12,Basic Health Insurance,24392,31577
+Mexico,2022,12,Comprehensive Health Insurance,3003,4458
+Mexico,2022,12,Critical Illness Insurance,11939,16717
+Mexico,2022,12,Dental Insurance,26370,126681
+Mexico,2022,12,Vision Insurance,15675,45694
+Mexico,2022,12,Travel Health Insurance,11280,21361
+Mexico,2023,1,Basic Health Insurance,26150,32320
+Mexico,2023,1,Comprehensive Health Insurance,3882,5758
+Mexico,2023,1,Critical Illness Insurance,11939,16346
+Mexico,2023,1,Dental Insurance,29007,118694
+Mexico,2023,1,Vision Insurance,16554,48109
+Mexico,2023,1,Travel Health Insurance,9522,17460
+Mexico,2023,2,Basic Health Insurance,21755,27305
+Mexico,2023,2,Comprehensive Health Insurance,7398,10959
+Mexico,2023,2,Critical Illness Insurance,14576,20432
+Mexico,2023,2,Dental Insurance,25491,99190
+Mexico,2023,2,Vision Insurance,20070,57396
+Mexico,2023,2,Travel Health Insurance,7764,13559
+Mexico,2023,3,Basic Health Insurance,18239,22475
+Mexico,2023,3,Comprehensive Health Insurance,10914,16346
+Mexico,2023,3,Critical Illness Insurance,10181,14117
+Mexico,2023,3,Dental Insurance,21975,97333
+Mexico,2023,3,Vision Insurance,24465,79315
+Mexico,2023,3,Travel Health Insurance,6006,10773
+Mexico,2023,4,Basic Health Insurance,20876,26005
+Mexico,2023,4,Comprehensive Health Insurance,8277,12631
+Mexico,2023,4,Critical Illness Insurance,6665,9473
+Mexico,2023,4,Dental Insurance,22854,113864
+Mexico,2023,4,Vision Insurance,20070,58325
+Mexico,2023,4,Travel Health Insurance,9522,17832
+Mexico,2023,5,Basic Health Insurance,20876,26376
+Mexico,2023,5,Comprehensive Health Insurance,4761,7058
+Mexico,2023,5,Critical Illness Insurance,4028,5386
+Mexico,2023,5,Dental Insurance,24612,92689
+Mexico,2023,5,Vision Insurance,24465,86188
+Mexico,2023,5,Travel Health Insurance,13917,24704
+Mexico,2023,6,Basic Health Insurance,19997,25076
+Mexico,2023,6,Comprehensive Health Insurance,1245,1857
+Mexico,2023,6,Critical Illness Insurance,7544,10587
+Mexico,2023,6,Dental Insurance,23733,110149
+Mexico,2023,6,Vision Insurance,25344,72256
+Mexico,2023,6,Travel Health Insurance,15675,27305
+Mexico,2023,7,Basic Health Insurance,22634,28234
+Mexico,2023,7,Comprehensive Health Insurance,3882,6501
+Mexico,2023,7,Critical Illness Insurance,6665,9287
+Mexico,2023,7,Dental Insurance,20217,78758
+Mexico,2023,7,Vision Insurance,25344,80615
+Mexico,2023,7,Travel Health Insurance,11280,19689
+Mexico,2023,8,Basic Health Insurance,19118,23776
+Mexico,2023,8,Comprehensive Health Insurance,512,743
+Mexico,2023,8,Critical Illness Insurance,8423,11702
+Mexico,2023,8,Dental Insurance,20217,90460
+Mexico,2023,8,Vision Insurance,23586,84887
+Mexico,2023,8,Travel Health Insurance,13038,22475
+Mexico,2023,9,Basic Health Insurance,17360,22661
+Mexico,2023,9,Comprehensive Health Insurance,3149,4643
+Mexico,2023,9,Critical Illness Insurance,6665,8916
+Mexico,2023,9,Dental Insurance,17580,65198
+Mexico,2023,9,Vision Insurance,27102,85630
+Mexico,2023,9,Travel Health Insurance,11280,19318
+Mexico,2023,10,Basic Health Insurance,12965,16531
+Mexico,2023,10,Comprehensive Health Insurance,5786,8544
+Mexico,2023,10,Critical Illness Insurance,7544,10402
+Mexico,2023,10,Dental Insurance,14943,55539
+Mexico,2023,10,Vision Insurance,22707,75414
+Mexico,2023,10,Travel Health Insurance,12159,21918
+Mexico,2023,11,Basic Health Insurance,14100,18389
+Mexico,2023,11,Comprehensive Health Insurance,5725,8730
+Mexico,2023,11,Critical Illness Insurance,9827,13745
+Mexico,2023,11,Dental Insurance,16408,72999
+Mexico,2023,11,Vision Insurance,24440,78572
+Mexico,2023,11,Travel Health Insurance,17262,30091
+Mexico,2023,12,Basic Health Insurance,18459,22661
+Mexico,2023,12,Comprehensive Health Insurance,7715,12445
+Mexico,2023,12,Critical Illness Insurance,7715,11145
+Mexico,2023,12,Dental Insurance,15236,65198
+Mexico,2023,12,Vision Insurance,23244,65941
+Mexico,2023,12,Travel Health Insurance,23244,43279
+Mexico,2024,1,Basic Health Insurance,20803,27119
+Mexico,2024,1,Comprehensive Health Insurance,6543,9844
+Mexico,2024,1,Critical Illness Insurance,5371,7430
+Mexico,2024,1,Dental Insurance,14064,59440
+Mexico,2024,1,Vision Insurance,26760,87302
+Mexico,2024,1,Travel Health Insurance,17384,33435
+Mexico,2024,2,Basic Health Insurance,26003,32134
+Mexico,2024,2,Comprehensive Health Insurance,14039,23218
+Mexico,2024,2,Critical Illness Insurance,610,743
+Mexico,2024,2,Dental Insurance,16115,59811
+Mexico,2024,2,Vision Insurance,27591,90275
+Mexico,2024,2,Travel Health Insurance,15870,28048
+Mexico,2024,3,Basic Health Insurance,21608,26562
+Mexico,2024,3,Comprehensive Health Insurance,19899,32320
+Mexico,2024,3,Critical Illness Insurance,3540,5015
+Mexico,2024,3,Dental Insurance,14650,73371
+Mexico,2024,3,Vision Insurance,33450,100119
+Mexico,2024,3,Travel Health Insurance,14405,25076
+Mexico,2024,4,Basic Health Insurance,21608,28419
+Mexico,2024,4,Comprehensive Health Insurance,27224,44765
+Mexico,2024,4,Critical Illness Insurance,2075,2786
+Mexico,2024,4,Dental Insurance,17580,74114
+Mexico,2024,4,Vision Insurance,27590,82844
+Mexico,2024,4,Travel Health Insurance,17335,31763
+Mexico,2024,5,Basic Health Insurance,21608,28605
+Mexico,2024,5,Comprehensive Health Insurance,33084,50524
+Mexico,2024,5,Critical Illness Insurance,854,1114
+Mexico,2024,5,Dental Insurance,10255,49781
+Mexico,2024,5,Vision Insurance,31985,98447
+Mexico,2024,5,Travel Health Insurance,17335,29348
+Mexico,2024,6,Basic Health Insurance,26003,32692
+Mexico,2024,6,Comprehensive Health Insurance,33084,51638
+Mexico,2024,6,Critical Illness Insurance,2075,2972
+Mexico,2024,6,Dental Insurance,17580,75971
+Mexico,2024,6,Vision Insurance,30520,98447
+Mexico,2024,6,Travel Health Insurance,12940,23776
+Mexico,2024,7,Basic Health Insurance,21608,26005
+Mexico,2024,7,Comprehensive Health Insurance,40409,67798
+Mexico,2024,7,Critical Illness Insurance,854,1114
+Mexico,2024,7,Dental Insurance,17580,70770
+Mexico,2024,7,Vision Insurance,31985,95104
+Mexico,2024,7,Travel Health Insurance,17335,30277
+Mexico,2024,8,Basic Health Insurance,24538,30277
+Mexico,2024,8,Comprehensive Health Insurance,37479,61297
+Mexico,2024,8,Critical Illness Insurance,5249,7615
+Mexico,2024,8,Dental Insurance,23440,109778
+Mexico,2024,8,Vision Insurance,27590,80615
+Mexico,2024,8,Travel Health Insurance,21730,41979
+Mexico,2024,9,Basic Health Insurance,24538,30091
+Mexico,2024,9,Comprehensive Health Insurance,33084,50709
+Mexico,2024,9,Critical Illness Insurance,9644,12816
+Mexico,2024,9,Dental Insurance,16115,63155
+Mexico,2024,9,Vision Insurance,33450,117208
+Mexico,2024,9,Travel Health Insurance,29055,52567
+Mexico,2024,10,Basic Health Insurance,26003,33806
+Mexico,2024,10,Comprehensive Health Insurance,37479,62969
+Mexico,2024,10,Critical Illness Insurance,8179,11330
+Mexico,2024,10,Dental Insurance,10255,42165
+Mexico,2024,10,Vision Insurance,40775,118137
+Mexico,2024,10,Travel Health Insurance,21730,39379
+Mexico,2024,11,Basic Health Insurance,20143,25447
+Mexico,2024,11,Comprehensive Health Insurance,44804,70770
+Mexico,2024,11,Critical Illness Insurance,8179,11516
+Mexico,2024,11,Dental Insurance,7325,29720
+Mexico,2024,11,Vision Insurance,33450,120551
+Mexico,2024,11,Travel Health Insurance,21730,37707
+Mexico,2024,12,Basic Health Insurance,26003,31763
+Mexico,2024,12,Comprehensive Health Insurance,43339,69284
+Mexico,2024,12,Critical Illness Insurance,2319,3343
+Mexico,2024,12,Dental Insurance,7325,31206
+Mexico,2024,12,Vision Insurance,37845,129096
+Mexico,2024,12,Travel Health Insurance,27590,52938
+Uk,2022,1,Basic Health Insurance,23440,28977
+Uk,2022,1,Comprehensive Health Insurance,3907,5758
+Uk,2022,1,Critical Illness Insurance,34672,46994
+Uk,2022,1,Dental Insurance,22096,101419
+Uk,2022,1,Vision Insurance,6592,18946
+Uk,2022,1,Travel Health Insurance,22219,42351
+Uk,2022,2,Basic Health Insurance,26370,34921
+Uk,2022,2,Comprehensive Health Insurance,11232,16717
+Uk,2022,2,Critical Illness Insurance,36137,48295
+Uk,2022,2,Dental Insurance,27956,105506
+Uk,2022,2,Vision Insurance,732,2043
+Uk,2022,2,Travel Health Insurance,20754,34921
+Uk,2022,3,Basic Health Insurance,24905,31020
+Uk,2022,3,Comprehensive Health Insurance,11232,17460
+Uk,2022,3,Critical Illness Insurance,41997,57768
+Uk,2022,3,Dental Insurance,20631,91203
+Uk,2022,3,Vision Insurance,3662,11702
+Uk,2022,3,Travel Health Insurance,14894,27305
+Uk,2022,4,Basic Health Insurance,19045,23033
+Uk,2022,4,Comprehensive Health Insurance,11232,17646
+Uk,2022,4,Critical Illness Insurance,43462,63898
+Uk,2022,4,Dental Insurance,27956,112750
+Uk,2022,4,Vision Insurance,9522,27862
+Uk,2022,4,Travel Health Insurance,7569,12816
+Uk,2022,5,Basic Health Insurance,17580,22847
+Uk,2022,5,Comprehensive Health Insurance,3907,6315
+Uk,2022,5,Critical Illness Insurance,47857,64641
+Uk,2022,5,Dental Insurance,29421,117765
+Uk,2022,5,Vision Insurance,16847,50709
+Uk,2022,5,Travel Health Insurance,1709,2972
+Uk,2022,6,Basic Health Insurance,16115,21175
+Uk,2022,6,Comprehensive Health Insurance,5372,8730
+Uk,2022,6,Critical Illness Insurance,44927,63898
+Uk,2022,6,Dental Insurance,33816,155101
+Uk,2022,6,Vision Insurance,22707,75786
+Uk,2022,6,Travel Health Insurance,244,371
+Uk,2022,7,Basic Health Insurance,8790,10587
+Uk,2022,7,Comprehensive Health Insurance,2442,3715
+Uk,2022,7,Critical Illness Insurance,44928,64456
+Uk,2022,7,Dental Insurance,30886,120923
+Uk,2022,7,Vision Insurance,15382,43837
+Uk,2022,7,Travel Health Insurance,1220,2043
+Uk,2022,8,Basic Health Insurance,4395,5201
+Uk,2022,8,Comprehensive Health Insurance,9767,15417
+Uk,2022,8,Critical Illness Insurance,52252,71513
+Uk,2022,8,Dental Insurance,25026,118137
+Uk,2022,8,Vision Insurance,16847,55167
+Uk,2022,8,Travel Health Insurance,3174,6129
+Uk,2022,9,Basic Health Insurance,4395,5758
+Uk,2022,9,Comprehensive Health Insurance,2442,3900
+Uk,2022,9,Critical Illness Insurance,59577,80987
+Uk,2022,9,Dental Insurance,27956,110707
+Uk,2022,9,Vision Insurance,12452,37893
+Uk,2022,9,Travel Health Insurance,4150,7058
+Uk,2022,10,Comprehensive Health Insurance,977,1486
+Uk,2022,10,Critical Illness Insurance,53717,72814
+Uk,2022,10,Dental Insurance,29421,121852
+Uk,2022,10,Vision Insurance,9522,28234
+Uk,2022,10,Travel Health Insurance,1709,3157
+Uk,2022,11,Basic Health Insurance,4395,5572
+Uk,2022,11,Comprehensive Health Insurance,6837,10959
+Uk,2022,11,Critical Illness Insurance,46392,66312
+Uk,2022,11,Dental Insurance,23561,89903
+Uk,2022,11,Vision Insurance,3662,12631
+Uk,2022,11,Travel Health Insurance,1709,2786
+Uk,2022,12,Basic Health Insurance,1465,1857
+Uk,2022,12,Comprehensive Health Insurance,12697,20804
+Uk,2022,12,Critical Illness Insurance,40532,54796
+Uk,2022,12,Dental Insurance,23561,93060
+Uk,2022,12,Vision Insurance,3662,11702
+Uk,2022,12,Travel Health Insurance,1220,2043
+Uk,2023,1,Basic Health Insurance,2930,3715
+Uk,2023,1,Comprehensive Health Insurance,20022,33435
+Uk,2023,1,Critical Illness Insurance,36137,49409
+Uk,2023,1,Dental Insurance,23561,93246
+Uk,2023,1,Vision Insurance,732,2043
+Uk,2023,1,Travel Health Insurance,6104,10216
+Uk,2023,2,Basic Health Insurance,7325,9101
+Uk,2023,2,Comprehensive Health Insurance,17092,27305
+Uk,2023,2,Critical Illness Insurance,36137,51452
+Uk,2023,2,Dental Insurance,19166,70770
+Uk,2023,2,Vision Insurance,3662,10587
+Uk,2023,2,Travel Health Insurance,3174,5944
+Uk,2023,3,Basic Health Insurance,8790,10587
+Uk,2023,3,Comprehensive Health Insurance,9767,14488
+Uk,2023,3,Critical Illness Insurance,30277,43651
+Uk,2023,3,Dental Insurance,14771,67613
+Uk,2023,3,Vision Insurance,2197,6687
+Uk,2023,3,Travel Health Insurance,1709,3157
+Uk,2023,4,Basic Health Insurance,8790,10587
+Uk,2023,4,Comprehensive Health Insurance,2442,3900
+Uk,2023,4,Critical Illness Insurance,28812,42536
+Uk,2023,4,Dental Insurance,14771,54424
+Uk,2023,4,Vision Insurance,3662,11145
+Uk,2023,4,Travel Health Insurance,5615,10773
+Uk,2023,5,Basic Health Insurance,10255,12259
+Uk,2023,5,Comprehensive Health Insurance,3907,5758
+Uk,2023,5,Critical Illness Insurance,21487,28977
+Uk,2023,5,Dental Insurance,7446,27119
+Uk,2023,5,Vision Insurance,732,2229
+Uk,2023,5,Travel Health Insurance,5615,10216
+Uk,2023,6,Basic Health Insurance,10255,12445
+Uk,2023,6,Comprehensive Health Insurance,8302,13188
+Uk,2023,6,Critical Illness Insurance,15627,22290
+Uk,2023,6,Dental Insurance,3051,12445
+Uk,2023,6,Vision Insurance,5127,16346
+Uk,2023,6,Travel Health Insurance,8545,15045
+Uk,2023,7,Basic Health Insurance,2930,3529
+Uk,2023,7,Comprehensive Health Insurance,9767,14488
+Uk,2023,7,Critical Illness Insurance,11232,15603
+Uk,2023,7,Dental Insurance,8911,33992
+Uk,2023,7,Vision Insurance,2197,7244
+Uk,2023,7,Travel Health Insurance,11475,19875
+Uk,2023,8,Basic Health Insurance,2930,3715
+Uk,2023,8,Comprehensive Health Insurance,17092,28605
+Uk,2023,8,Critical Illness Insurance,12697,17460
+Uk,2023,8,Dental Insurance,4516,18946
+Uk,2023,8,Vision Insurance,732,2414
+Uk,2023,8,Travel Health Insurance,10010,17646
+Uk,2023,9,Basic Health Insurance,5860,7058
+Uk,2023,9,Comprehensive Health Insurance,9767,15231
+Uk,2023,9,Critical Illness Insurance,15627,22475
+Uk,2023,9,Dental Insurance,7446,28048
+Uk,2023,9,Vision Insurance,5127,16160
+Uk,2023,9,Travel Health Insurance,2685,5015
+Uk,2023,10,Basic Health Insurance,11720,14302
+Uk,2023,10,Comprehensive Health Insurance,15627,23404
+Uk,2023,10,Critical Illness Insurance,9767,13188
+Uk,2023,10,Dental Insurance,4516,18389
+Uk,2023,10,Vision Insurance,5127,15045
+Uk,2023,10,Travel Health Insurance,8545,15417
+Uk,2023,11,Basic Health Insurance,5860,7615
+Uk,2023,11,Comprehensive Health Insurance,11232,17832
+Uk,2023,11,Critical Illness Insurance,5372,7058
+Uk,2023,11,Dental Insurance,8911,44765
+Uk,2023,11,Vision Insurance,732,2043
+Uk,2023,11,Travel Health Insurance,2685,5201
+Uk,2023,12,Basic Health Insurance,13185,15974
+Uk,2023,12,Comprehensive Health Insurance,11232,16903
+Uk,2023,12,Critical Illness Insurance,9767,14117
+Uk,2023,12,Dental Insurance,11841,51638
+Uk,2023,12,Vision Insurance,2197,6501
+Uk,2023,12,Travel Health Insurance,8545,15045
+Uk,2024,1,Basic Health Insurance,19045,24333
+Uk,2024,1,Comprehensive Health Insurance,18557,28234
+Uk,2024,1,Critical Illness Insurance,9767,13931
+Uk,2024,1,Dental Insurance,20631,88602
+Uk,2024,1,Vision Insurance,8057,26005
+Uk,2024,1,Travel Health Insurance,1220,2229
+Uk,2024,2,Basic Health Insurance,14650,18017
+Uk,2024,2,Comprehensive Health Insurance,20022,30091
+Uk,2024,2,Critical Illness Insurance,11232,16531
+Uk,2024,2,Dental Insurance,23561,109406
+Uk,2024,2,Vision Insurance,3662,12445
+Uk,2024,2,Travel Health Insurance,7080,12259
+Uk,2024,3,Basic Health Insurance,16115,20432
+Uk,2024,3,Comprehensive Health Insurance,24417,38450
+Uk,2024,3,Critical Illness Insurance,12697,17274
+Uk,2024,3,Dental Insurance,26491,123338
+Uk,2024,3,Vision Insurance,2197,6315
+Uk,2024,3,Travel Health Insurance,1709,3157
+Uk,2024,4,Basic Health Insurance,19045,24147
+Uk,2024,4,Comprehensive Health Insurance,18557,30091
+Uk,2024,4,Critical Illness Insurance,18557,27305
+Uk,2024,4,Dental Insurance,35281,128539
+Uk,2024,4,Vision Insurance,732,2043
+Uk,2024,4,Travel Health Insurance,7569,13745
+Uk,2024,5,Basic Health Insurance,24905,31763
+Uk,2024,5,Comprehensive Health Insurance,22952,36592
+Uk,2024,5,Critical Illness Insurance,15627,22847
+Uk,2024,5,Dental Insurance,39676,156773
+Uk,2024,5,Vision Insurance,3662,10216
+Uk,2024,5,Travel Health Insurance,1709,3157
+Uk,2024,6,Basic Health Insurance,23440,28234
+Uk,2024,6,Comprehensive Health Insurance,17092,27676
+Uk,2024,6,Critical Illness Insurance,22952,31577
+Uk,2024,6,Dental Insurance,44071,215284
+Uk,2024,6,Vision Insurance,5127,17460
+Uk,2024,6,Travel Health Insurance,1220,2043
+Uk,2024,7,Basic Health Insurance,26370,34921
+Uk,2024,7,Comprehensive Health Insurance,11232,17089
+Uk,2024,7,Critical Illness Insurance,20022,27491
+Uk,2024,7,Dental Insurance,44071,163460
+Uk,2024,7,Vision Insurance,2197,7615
+Uk,2024,7,Travel Health Insurance,7569,13188
+Uk,2024,8,Basic Health Insurance,27835,36964
+Uk,2024,8,Comprehensive Health Insurance,18557,31206
+Uk,2024,8,Critical Illness Insurance,25882,35292
+Uk,2024,8,Dental Insurance,45536,166432
+Uk,2024,8,Vision Insurance,2197,6501
+Uk,2024,8,Travel Health Insurance,16359,28419
+Uk,2024,9,Basic Health Insurance,24905,31206
+Uk,2024,9,Comprehensive Health Insurance,18557,28048
+Uk,2024,9,Critical Illness Insurance,20022,28605
+Uk,2024,9,Dental Insurance,44071,189279
+Uk,2024,9,Vision Insurance,2197,7058
+Uk,2024,9,Travel Health Insurance,20754,37707
+Uk,2024,10,Basic Health Insurance,26370,33620
+Uk,2024,10,Comprehensive Health Insurance,14162,23033
+Uk,2024,10,Critical Illness Insurance,21487,31206
+Uk,2024,10,Dental Insurance,49931,231630
+Uk,2024,10,Vision Insurance,732,2043
+Uk,2024,10,Travel Health Insurance,22219,39193
+Uk,2024,11,Basic Health Insurance,23440,30648
+Uk,2024,11,Comprehensive Health Insurance,17092,25633
+Uk,2024,11,Critical Illness Insurance,20022,29162
+Uk,2024,11,Dental Insurance,52861,228658
+Uk,2024,11,Vision Insurance,732,2414
+Uk,2024,11,Travel Health Insurance,25149,48109
+Uk,2024,12,Basic Health Insurance,30765,37335
+Uk,2024,12,Comprehensive Health Insurance,17092,26376
+Uk,2024,12,Critical Illness Insurance,21487,30648
+Uk,2024,12,Dental Insurance,51396,235345
+Uk,2024,12,Vision Insurance,9522,31577
+Uk,2024,12,Travel Health Insurance,33939,62226
